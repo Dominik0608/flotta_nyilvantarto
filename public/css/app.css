@@ -1,0 +1,7 @@
+.registration, .login {
+  max-width: 500px !important;
+}
+
+table tr {
+  vertical-align: middle;
+}
